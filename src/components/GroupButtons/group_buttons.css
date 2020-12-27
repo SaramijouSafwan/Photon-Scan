@@ -1,0 +1,25 @@
+button.digitizationButton {
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: #3CC1EF;
+    border-color: #3CC1EF;
+    color: #033856;
+}
+button.modifyButton {
+    width: 97%;
+    margin-bottom: 10px; 
+    margin-right: 3%;
+}
+button.resetButton {
+    width: 97%;
+    margin-bottom: 10px;
+    background-color: #3C4D6F;
+    border-color: #3C4D6F;
+    margin-left: 3%;
+}
+button.calibrationButton {
+    width: 100%;
+    margin-bottom: 10px; 
+    background-color: #FF8289; 
+    border-color: #FF8289;
+}

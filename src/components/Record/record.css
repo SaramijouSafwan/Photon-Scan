@@ -1,0 +1,39 @@
+div.recordBody {
+    height: 100%;
+}
+div.controlCol {
+    padding: 0px;
+    padding-right: 3%;
+}
+div.titleRow {
+    height: 9%;
+    background-color: white;
+    padding: 15px;
+    padding-left: 20px;
+    margin-bottom: 0.9%; 
+}
+div.tabsRow {
+height: 90%;
+}
+div.nameCol {
+    display: flex;
+    align-items: flex-end; 
+}
+div.ageCol {
+    display: flex;
+    align-items: flex-end;
+}
+div.dateCol {
+    display: flex;
+    align-items: flex-end;
+}
+h3.title {
+    font-size: 24px; 
+    color: #032f4b; 
+    margin: 0px; 
+}
+p.title {
+    font-size: 14px;
+    color: #032f4b; 
+    margin: 0px;
+}

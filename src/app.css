@@ -1,0 +1,12 @@
+div.app {
+    height: 100%;
+    padding-left: 2%;
+    margin: 0px;
+    background-color: #F7FAFE;
+}
+div.magnifiercontainer {
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+

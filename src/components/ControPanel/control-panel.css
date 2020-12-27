@@ -1,0 +1,19 @@
+.card {
+    border: none;
+    padding: 5%;
+}
+div.container {
+    padding: 5%;
+    background-color: white;
+    height: 100%;
+    border-radius: 0;
+}
+h3.title, p.subTitle{
+    color: #032f4b;
+}
+button.save {
+    width: 100%;
+    margin-bottom: 10px; 
+    background-color: #6F80A6; 
+    border-color: #6F80A6; 
+}
